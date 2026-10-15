@@ -1,4 +1,4 @@
-# ooop — Swoop with friends
+# ooop — a game
 
 A free, just-for-fun multiplayer Swoop card game built with Streamlit.
 No logins: players pick a nickname, the host creates a room, and everyone else joins with the 5-letter code.
